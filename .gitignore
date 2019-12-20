@@ -1,0 +1,16 @@
+etc/vpn/*/pki
+pki
+*.ovpn
+.DS_Store
+.idea/*
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.*.backup
+terraform.tfvars
+account.json
+.terraform/*
+.terraform
+id_rsa*
+jumpbox_id_rsa*
+errored.tfstate
+*.zip
